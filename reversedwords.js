@@ -14,4 +14,4 @@ function reversedWords(string) {
     return arrayOfReversedWords.join('');
 }
 
-console.log(reversedWords('hello word'));
+console.log(reversedWords('hello world'));
